@@ -5,7 +5,7 @@ import Rohit from "../../assets/team/Rohit.jpeg"
 import Saadgi from "../../assets/team/Saadgi.jpg"
 import Yash from "../../assets/team/Yash.jpg"
 import Omkar from "../../assets/team/Omkar.jpg"
-import Varun from "../../assets/team/Varun.jpg"
+import Sharvin from "../../assets/team/Sharvin.jpg"
 import Anshika from "../../assets/team/Anshika.jpg"
 
 const teams = [
@@ -25,10 +25,10 @@ const teams = [
     },
     {
         id: 3,
-        name: 'Varun Agarwal',
+        name: 'Sharvin Shah',
         role: 'Secretary',
-        image: Varun,
-        linkedinURL: "https://www.linkedin.com/in/varunagrawal408/"
+        image: Sharvin,
+        linkedinURL: "https://www.linkedin.com/in/sharvin-shah-274595222"
     },
     {
         id: 4,
